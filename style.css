@@ -1,0 +1,93 @@
+body{
+background-image: url("https://images.pexels.com/photos/5717411/pexels-photo-5717411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") ;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 350px;
+width: 90%;
+}
+
+
+
+
+.parent{
+/* height: 200px; */
+width: 100%;
+/* border: 1px solid black; */
+/* text-align: center; */
+
+}
+
+.container{
+margin-left: 110px;
+margin-top: 80px;
+align-items: center;
+padding-left: 20px;
+text-align: center;
+
+}
+
+.todo_list{
+margin-left: 50px;
+font-size: 25px;
+align-items: center;
+
+}
+
+.inp_val{
+font-size: 25px;
+border-radius: 10px;
+border: 1px solid gray;
+
+}
+
+.btn_design{
+font-size: 25px;
+background-color: blue;
+color: white;
+border-radius: 10px;
+border: 1px solid blue;
+
+}
+
+.btn_design2{
+font-size: 25px;
+background-color: red;
+color: white;
+border-radius: 10px;
+border: 1px solid red;
+
+}
+.design{
+/* text-align: center; */
+font-size: 30px;
+margin-bottom: 20px;
+color: white;
+text-shadow: -3px -3px 5px rgb(105, 19, 19),;
+text-shadow: 3px 3px  purple;
+}
+
+.btn_color{
+background-color: blue;
+ border: 1px solid blue;
+ color: white;
+ font-size: 20px;
+ padding-left: 25px;
+ padding-right: 25px;
+ padding-bottom: 10px;
+ padding-top: 10px;
+ border-radius: 10px;
+ margin-bottom: 10px;
+}
+.btn_color2{
+background-color: red;
+border: 1px solid red;
+color: white;
+padding-left: 25px;
+ padding-right: 25px;
+ padding-bottom: 10px;
+ padding-top: 10px;
+ border-radius: 10px;
+ font-size: 20px;
+ margin-bottom: 10px;
+}
